@@ -1,0 +1,22 @@
+{
+  "name": "testitng-practice",
+  "version": "1.0.0",
+  "description": "this project is a testing exercise for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juaryimami/testitng-practice.git"
+  },
+  "author": "JUHAR YIMER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juaryimami/testitng-practice/issues"
+  },
+  "homepage": "https://github.com/juaryimami/testitng-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
